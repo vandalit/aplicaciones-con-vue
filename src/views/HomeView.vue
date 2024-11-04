@@ -1,9 +1,7 @@
-<script setup>
+<script >
 
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+<h1>hola</h1>
 </template>
